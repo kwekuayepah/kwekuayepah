@@ -3,7 +3,7 @@
 # Hi, I'm Kweku Ayepah! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kwekuayepah&color=blueviolet)
-[![Linkedin: yourlinkedin](https://img.shields.io/badge/-YourLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
+[![Linkedin: yourlinkedin](https://img.shields.io/badge/-YourLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-ayepah-mensah-251453131/)](https://www.linkedin.com/in/yourlinkedin/)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
 ## About Me
