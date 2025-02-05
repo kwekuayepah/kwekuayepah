@@ -3,7 +3,8 @@
 # Hi, I'm [Your Name]! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kwekuayepah&color=blueviolet)
-[![Linkedin: abraham-ayepah-mensah-251453131](https://img.shields.io/badge/-abraham--ayepah--mensah--251453131-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-ayepah-mensah-251453131/)](https://www.linkedin.com/in/abraham-ayepah-mensah-251453131/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-ayepah-mensah-251453131/)](https://www.linkedin.com/in/abraham-ayepah-mensah-251453131/)
+
 [![GitHub followers](https://img.shields.io/github/followers/kwekuayepah?label=Follow&style=social)](https://github.com/kwekuayepah)
 
 ## About Me
