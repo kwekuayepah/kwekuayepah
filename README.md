@@ -1,34 +1,21 @@
 <!-- Hi there, welcome to my GitHub profile! -->
 
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Kweku Ayepah! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kwekuayepah&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-ayepah-mensah-251453131/)](https://www.linkedin.com/in/abraham-ayepah-mensah-251453131/)
-
 [![GitHub followers](https://img.shields.io/github/followers/kwekuayepah?label=Follow&style=social)](https://github.com/kwekuayepah)
 
 ## About Me
 
-I'm a passionate software engineer with a knack for building creative and robust applications. My work spans a range of technologies, and I'm constantly learning and experimenting with new ideas to solve interesting problems. When I'm not coding, you might find me exploring other hobbies or diving into new tech trends!
+I'm a passionate software engineer with a knack for building creative and robust applications. My work spans a range of technologies, and I'm constantly learning and experimenting with new ideas to solve interesting problems. When I'm not coding, you might find me exploring Ghana or traveling outside the country; I also love capturing moments through photography.
 
-- 🔭 I’m currently working on: [Project Name](https://github.com/kwekuayepah/project)
-- 🌱 I’m currently learning: Advanced [Technology/Framework]
-- 👯 I’m looking to collaborate on: Innovative projects that challenge the status quo.
-- 💬 Ask me about: Full-stack development, open source, and more!
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com) or [Twitter](https://twitter.com/yourhandle)
-- ⚡ Fun fact: I also love [an interesting hobby, e.g., photography, hiking, gaming, etc.]
+I'm primarily focused on backend and distributed systems. My tech stack includes:
 
-## Skills & Technologies
-
-### Languages & Frameworks:
-- **Languages:** JavaScript, Python, [Other languages]
-- **Frameworks:** React, Node.js, Django, [Other frameworks]
-
-### Tools & Platforms:
-- Git & GitHub
-- Docker & Kubernetes
-- AWS / GCP / Azure
-- [Any other tools or platforms]
+- **Programming Languages & Frameworks:** Python, C#, .NET, Golang
+- **Databases:** Postgres, Elastic Search, Redis, MongoDB
+- **APIs:** REST and GraphQL
+- **Tools & Platforms:** AWS, Git & GitHub, Docker & Kubernetes, NIFI, Apache Kafka
 
 ## My Projects
 
